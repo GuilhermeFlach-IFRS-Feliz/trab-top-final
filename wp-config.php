@@ -26,7 +26,7 @@ define( 'DB_NAME', 'epiz_29724195_trabfun' );
 define( 'DB_USER', 'epiz_29724195' );
 
 /** Senha do banco de dados MySQL */
-define( 'DB_PASSWORD', 'BO8xH!Nn9U2K' );
+define( 'DB_PASSWORD', 'mF0A1usjNTwX' );
 
 /** Nome do host do MySQL */
 define( 'DB_HOST', 'sql302.epizy.com' );
